@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/e4ojlllvq2cgug9q?retina=true)](https://ci.appveyor.com/project/puhabg/battlefield)
+
 High-Quality Programming Code – Team Projects
 =============================================
 
